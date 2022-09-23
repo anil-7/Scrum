@@ -1,0 +1,13 @@
+userstories: A farmer has to submit the land details, their survey number , 
+total land in hectors and village name to the bank.
+The bank creates a portal using these details and this portal is accessed by the farmers who are registered.
+
+Approval of loan: As a farmer i need to send the details of the land that i had in hectors . 
+Based on that the loan is sancioned to me.
+
+Loan Registration:Loan is registered through the portal and in that portal farmer has to provide their
+ land details and type of cultivation.
+MILESTONES:
+    1. CLEAR OF LOANS AND UPDATE DETAILS IN PORTAL.
+    2.REGISTER AND VIEW DETAILS.
+    3.GOVERNMENT MAY ALSO TRANSFER MONEY FOR ANY SUBSIDY /INSURABNCE AMOUNT TO AADHAR LINKED BANK ACCOUNT.
